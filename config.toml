@@ -67,9 +67,13 @@ publishDir = "fercreek.github.io"
     weight = 2
     url = "/about/"
 [[menu.main]]
-    name = "Projects"
+    name = "My Impossible List"
     weight = 3
-    url = "/projects/"
+    url = "/my-impossible-list/"
+[[menu.main]]
+    name = "What I'm Doing Now"
+    weight = 4
+    url = "/now/"
 [[menu.main]]
     name = "Contact me"
     weight = 5
