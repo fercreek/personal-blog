@@ -3,7 +3,6 @@ title: "What I Am Doing Now"
 slug: "now"
 ---
 
-What I Am Doing Now
 I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang.
 
 This is what I spend my time doing:
@@ -18,6 +17,7 @@ These are my main priorities right now.
 
 - Improving my dialy habits
 - Deep understanding of Ruby and Golang
+- Doing more in less time
 
 If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on March 28, 2019.
 
