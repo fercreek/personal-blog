@@ -1,4 +1,4 @@
-baseurl = "https://fercreek.github.io"
+baseurl = "https://blog.fercontreras.com"
 title = "Fernando Contreras"
 theme = "hugo-coder"
 languagecode = "en"
