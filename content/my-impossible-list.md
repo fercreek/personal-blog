@@ -5,24 +5,39 @@ slug = "my-impossible-list"
 
 # Last 5 Completed Goals
 
-- Finished DevOps course (November 2019)
+- ✅ DevOps course by Cero Uno _(November 2019)_
+- ✅ Danced in a hip hop and reggaeton presentation
+- ✅ BB Back squat 165 lbs
+- ✅ BB Romanian Deadlift 165 lbs
+- ✅ BB Hip thrust 155 lbs
 
 # Current Focuses
 
-- Gain more muscule mass (How much?)
+- Gain more muscle mass (How much?)
 - Be a great dancer in bachata and salsa
+- Improve productivity doing more in less time
 
 # Fitness/Health Goals
 
-- BackSquat XXX
-- Deadlift XXX
-- BB row XXX
+- 73 Kgs
+- Back Squat 225 lbs
+- Romanian Deadlift 225 lbs
+- BB row 225 lbs
+- Acrobatic
+  - Back flip
+  - Side flip
+  - Aerial
+- Aerial dance
+- Break dance
+  - 5 flares
+  - Airtrack
 
 # Professional Goals
 
 - Gain 100k in one year
 - Contribute to open source community
 - Get 100 blog visits, all time
+- Be the CTO of a startup
 
 # Habit Goals
 
@@ -33,6 +48,7 @@ slug = "my-impossible-list"
 - Write a book
 - Play the guitar
 - Learn how to make electronic music
+- Record a guitar song
 
 # Skills Goals
 
@@ -42,10 +58,17 @@ slug = "my-impossible-list"
 - Learn Bachata
 - Learn Salsa
 
-
 # Fun and/or "Insane" Goals
 
 - Bungee jump
+- Do snorkel
+
+# Events to attend
+
+- TODO
+
+# Video Game Goals
+
 - Finish at 100% Kingdom Hearts
 
 # Travel Goals
@@ -53,7 +76,11 @@ slug = "my-impossible-list"
 - Live for a while in:
   - Poland
   - France
+  - Italy
 
 # Life Goals
 
-[impossibleHQ](https://impossiblehq.com/impossible-list/)
+- Read 100 books
+- Have a software consulting
+- Have many active incomes
+- Work for fun, not for money
