@@ -20,7 +20,7 @@ publishDir = "fercreek.github.io"
     info = "SOFTWARE ENGINEER"
     description = "Fernando Contreras's personal website"
     keywords = "blog,developer,personal,engineer,ruby,rails,python,django,javascript"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/me.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
