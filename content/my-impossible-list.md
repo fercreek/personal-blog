@@ -34,7 +34,7 @@ slug = "my-impossible-list"
 
 # Professional Goals
 
-- Gain 100k in one year
+- Earn 100k in one year
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
