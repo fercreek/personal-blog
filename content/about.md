@@ -23,4 +23,11 @@ I constantly around the local tech scene, in the past, I organized a hackathon e
 
 Passionate about new technologies and sharing my expertise in the industry.
 
-My hobbies are going to the gym and dance all styles.
+My hobbies are:
+
+- Going to the gym
+- Dance hip hop and reggaeton
+- Play guitar
+- Workout
+- Write about life and technology
+- Learn about productivity
