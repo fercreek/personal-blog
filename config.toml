@@ -17,7 +17,7 @@ publishDir = "fercreek.github.io"
 
 [params]
     author = "Fernando Contreras"
-    info = "SOFTWARE ENGINEER"
+    info = "SOFTWARE ENGINEER, DANCER AND WRITER BY HOBBY"
     description = "Fernando Contreras's personal website"
     keywords = "blog,developer,personal,engineer,ruby,rails,python,django,javascript"
     avatarurl = "images/me.png"

@@ -5,7 +5,7 @@ slug = "about"
 
 # Me in 10 seconds
 
-Software engineer, bboy, dancer, and powerbuilder.
+Software engineer, dancer and writer by hobby
 
 I used to dance break dance, now I´m taking bachata and salsa lessons.
 
