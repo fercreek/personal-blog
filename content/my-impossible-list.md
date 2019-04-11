@@ -76,62 +76,67 @@ slug = "my-impossible-list"
 
 # Travel Goals
 
-- ✅ Check-in:
-  - México
-    - CDMX
-    - Toluca
-    - Chihuahua
-    - Puerto Vallarta
-    - Guadalajara
-    - Oaxaca
-    - Hidalgo
-  - France, Paris
-  - United Kingdom
-    - London
-    - Gibraltar
-  - Netherlands, Amsterdam
-  - Germany
-    - Berlin
-    - Frankfurt
-  - Portugal
-    - Lisboa
-    - Oporto
-  - Spain
-    - Barcelona
-    - Madrid
-    - Oviedo
-    - Bilbao
-    - Pajares
-    - Gijon
-    - Galicia
-    - Granada
-    - Sevilla
-    - Malaga
-    - León
-  - Belgium
-    - Brussels
-    - Bruges
-  - Luxembourg, Luxembourg
-  - Czech republic
-    - Prague
-    - Náchod
-  - Poland
-    - Warsaw
-    - Lublin
-  - Hungary, Budapest
-  - Italy
-    - Venice
-    - Parma
-    - Florence
-    - Pisa
-    - Rome
-- To-do Check-in
-  - Zacatecas, Zacatecas
-  - León, Guanajuato
-- Live for a while in:
-  - Poland
-  - France
-  - Italy
+## ✅ Check-in
+
+- México
+  - CDMX
+  - Toluca
+  - Chihuahua
+  - Puerto Vallarta
+  - Guadalajara
+  - Oaxaca
+  - Hidalgo
+- France, Paris
+- United Kingdom
+  - London
+  - Gibraltar
+- Netherlands, Amsterdam
+- Germany
+  - Berlin
+  - Frankfurt
+- Portugal
+  - Lisboa
+  - Oporto
+- Spain
+  - Barcelona
+  - Madrid
+  - Oviedo
+  - Bilbao
+  - Pajares
+  - Gijon
+  - Galicia
+  - Granada
+  - Sevilla
+  - Malaga
+  - León
+- Belgium
+  - Brussels
+  - Bruges
+- Luxembourg, Luxembourg
+- Czech republic
+  - Prague
+  - Náchod
+- Poland
+  - Warsaw
+  - Lublin
+- Hungary, Budapest
+- Italy
+  - Venice
+  - Parma
+  - Florence
+  - Pisa
+  - Rome
+
+## To-do Check-in
+
+- Zacatecas, Zacatecas
+- León, Guanajuato
+
+## Live for a while in
+
+- Poland
+- France
+- Italy
 
 # Life Goals
 
