@@ -13,7 +13,7 @@ slug = "my-impossible-list"
 
 # Current Focuses
 
-- Gain more muscle mass (How much?)
+- Gain more muscle mass
 - Be a great dancer in bachata and salsa
 - Improve productivity doing more in less time
 
@@ -62,6 +62,8 @@ slug = "my-impossible-list"
 
 - Bungee jump
 - Do snorkel
+- Skydiving
+- Surf
 
 # Events to attend
 
@@ -70,9 +72,62 @@ slug = "my-impossible-list"
 # Video Game Goals
 
 - Finish at 100% Kingdom Hearts
+- Finish at 100% Devil May Cry 5
 
 # Travel Goals
 
+- ✅ Check-in:
+  - México
+    - CDMX
+    - Toluca
+    - Chihuahua
+    - Puerto Vallarta
+    - Guadalajara
+    - Oaxaca
+    - Hidalgo
+  - France, Paris
+  - United Kingdom
+    - London
+    - Gibraltar
+  - Netherlands, Amsterdam
+  - Germany
+    - Berlin
+    - Frankfurt
+  - Portugal
+    - Lisboa
+    - Oporto
+  - Spain
+    - Barcelona
+    - Madrid
+    - Oviedo
+    - Bilbao
+    - Pajares
+    - Gijon
+    - Galicia
+    - Granada
+    - Sevilla
+    - Malaga
+    - León
+  - Belgium
+    - Brussels
+    - Bruges
+  - Luxembourg, Luxembourg
+  - Czech republic
+    - Prague
+    - Náchod
+  - Poland
+    - Warsaw
+    - Lublin
+  - Hungary, Budapest
+  - Italy
+    - Venice
+    - Parma
+    - Florence
+    - Pisa
+    - Rome
+- To-do Check-in
+  - Zacatecas, Zacatecas
+  - León, Guanajuato
 - Live for a while in:
   - Poland
   - France
