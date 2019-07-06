@@ -3,7 +3,7 @@ title: "What I Am Doing Now"
 slug: "now"
 ---
 
-I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang. Lead Software Engineer in SysCap [SysCap]
+I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang. Lead Software Engineer in [SysCap]
 
 This is what I spend my time doing:
 
