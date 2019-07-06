@@ -10,11 +10,11 @@ slug = "my-impossible-list"
 - ✅ BB Back squat 165 lbs
 - ✅ BB Romanian Deadlift 165 lbs
 - ✅ BB Hip thrust 155 lbs
+- ✅ Be a great dancer in bachata and salsa
 
 # Current Focuses
 
 - Gain more muscle mass
-- Be a great dancer in bachata and salsa
 - Improve productivity doing more in less time
 
 # Fitness/Health Goals
@@ -55,8 +55,8 @@ slug = "my-impossible-list"
 - Become fluent in English
 - Become fluent in French
 - Become fluent in Italian
-- Learn Bachata
-- Learn Salsa
+- ✅ Learn Bachata
+- ✅ Learn Salsa
 
 # Fun and/or "Insane" Goals
 
@@ -86,6 +86,9 @@ slug = "my-impossible-list"
   - Guadalajara
   - Oaxaca
   - Hidalgo
+  - Playa del Carmen
+  - Mazatlan
+  - Los Cabos
 - France, Paris
 - United Kingdom
   - London

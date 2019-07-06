@@ -32,7 +32,6 @@ My hobbies are:
 - Write about life and technology
 - Learn about productivity
 
-
 # Exhibitions and presentations
 
 - FIME UANL September 4, 2015 [Qué es git?](https://docs.google.com/presentation/d/1nM6y1TTKOk28Pk_Cv4lmCmLRpWqLJLozD6x__rvxN5Y/edit?usp=sharing)
