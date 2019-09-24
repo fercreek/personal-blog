@@ -6,11 +6,10 @@ slug = "my-impossible-list"
 # Last 5 Completed Goals
 
 - ✅ DevOps course by Cero Uno _(November 2019)_
-- ✅ Danced in a hip hop and reggaeton presentation
-- ✅ BB Back squat 165 lbs
-- ✅ BB Romanian Deadlift 165 lbs
+- ✅ Danced in a hip hop and reggaeton presentation _(February 2019)_
+- ✅ BB Back squat 185 lbs _(September 2019)_
+- ✅ BB Romanian Deadlift 225 lbs _(September 2019)_
 - ✅ BB Hip thrust 155 lbs
-- ✅ Be a great dancer in bachata and salsa
 
 # Current Focuses
 
@@ -20,17 +19,25 @@ slug = "my-impossible-list"
 # Fitness/Health Goals
 
 - 73 Kgs
-- Back Squat 225 lbs
-- Romanian Deadlift 225 lbs
-- BB row 225 lbs
+- Back Squat
+  - ✅ 185 lbs _(September 2019)_
+  - 225 lbs
+- Romanian Deadlift
+  - ✅ 225 lbs _(September 2019)_
+  - 260 lbs
+- BB row
+  - 225 lbs
 - Acrobatic
   - Back flip
   - Side flip
   - Aerial
-- Aerial dance
+
+# Dance Goals
+
 - Break dance
   - 5 flares
   - Airtrack
+- Dance in a salsa choreography
 
 # Professional Goals
 
