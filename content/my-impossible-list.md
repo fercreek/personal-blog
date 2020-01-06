@@ -6,10 +6,10 @@ slug = "my-impossible-list"
 # Last 5 Completed Goals
 
 - ✅ DevOps course by Cero Uno _(November 2019)_
-- ✅ Danced in a hip hop and reggaeton presentation _(February 2019)_
+- ✅ Dance in a hip hop and reggaeton presentation _(February 2019)_
 - ✅ BB Back squat 185 lbs _(September 2019)_
 - ✅ BB Romanian Deadlift 225 lbs _(September 2019)_
-- ✅ BB Hip thrust 155 lbs
+- ✅ Dance in a salsa choreography _(November 2019)_
 
 # Current Focuses
 
@@ -18,15 +18,21 @@ slug = "my-impossible-list"
 
 # Fitness/Health Goals
 
-- 73 Kgs
+- Pull ups - 10
+- Chin ups - 12
+- Dips - 15
+- Bench press
+  - ✅ 135 lbs _(November 2019)_
 - Back Squat
   - ✅ 185 lbs _(September 2019)_
-  - 225 lbs
+  - ✅ 225 lbs _(November 2019)_
 - Romanian Deadlift
   - ✅ 225 lbs _(September 2019)_
   - 260 lbs
 - BB row
   - 225 lbs
+- BB Hip thrust
+  - ✅ 155 lbs _(September 2019)_
 - Acrobatic
   - Back flip
   - Side flip
@@ -37,11 +43,11 @@ slug = "my-impossible-list"
 - Break dance
   - 5 flares
   - Airtrack
-- Dance in a salsa choreography
+- ✅ Dance in a salsa choreography _(November 2019)_
+- Salsa/Bachata choreography with partner
 
 # Professional Goals
 
-- Earn 100k in one year
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
@@ -74,7 +80,8 @@ slug = "my-impossible-list"
 
 # Events to attend
 
-- TODO
+- ✅ Timbal Latin Dance Congress Mty 2019
+- Beach Latin Fest 2020 in Las Brisas, Huatulco
 
 # Video Game Goals
 
@@ -141,6 +148,10 @@ slug = "my-impossible-list"
 
 - Zacatecas, Zacatecas
 - León, Guanajuato
+- La Habana, Cuba
+- Las brisas, Huatulco
+- Cali, Colombia
+- Zapopan, Jalisco
 
 ## Live for a while in
 
