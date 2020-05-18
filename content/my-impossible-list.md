@@ -13,8 +13,9 @@ slug = "my-impossible-list"
 
 # Current Focuses
 
-- Gain more muscle mass
+- Learn about blockchain and finances
 - Improve productivity doing more in less time
+- Invest money in a potential product/business
 
 # Fitness/Health Goals
 
@@ -37,11 +38,14 @@ slug = "my-impossible-list"
 - Break dance
   - 5 flares
   - Airtrack
-- Dance in a salsa choreography
+- ✅ Dance in a salsa choreography
+- ✅ Dance in a bachata choreography
 
 # Professional Goals
 
-- Earn 100k in one year
+- Earn
+  - ✅ 100k in one year
+  - 100k in one year in passive incomes
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
@@ -154,3 +158,4 @@ slug = "my-impossible-list"
 - Have a software consulting
 - Have many active incomes
 - Work for fun, not for money
+- Be an investor

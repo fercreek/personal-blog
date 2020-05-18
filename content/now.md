@@ -3,24 +3,21 @@ title: "What I Am Doing Now"
 slug: "now"
 ---
 
-I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang. Lead Software Engineer in [SysCap]
+I´m in Monterrey, Nuevo León, learning about cryptocurrencies, investment, and data analytics.
 
 This is what I spend my time doing:
 
-- Power building
-- Taking bachata and salsa lessons
-- Writing on my [blog](https://fercontreras.com)
+- Learning about blockchain and investment
 - [Reading books](https://www.goodreads.com/fercreek)
-- Eating better and being healthy
+- Watchingtendencias videos about cryptocurrencies and trends
 
 These are my main priorities right now.
 
-- Improving my dialy habits
-- Deep understanding of Ruby and Golang
-- Doing more in less time
+- Understand how to delegate and make better decisions on the work
+- Improving my daily habits
+- Be effective and productive
 
-If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on March 28, 2019.
+If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on May 17, 2020.
 
 This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my [Impossible List](/now/). It was inspired by [Derek Sivers](https://sivers.org/now) and [Thomas Frank](https://collegeinfogeek.com/now/).
 
-[SysCap]: https://www.syscap.com.mx/

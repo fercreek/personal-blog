@@ -36,3 +36,5 @@ My hobbies are:
 
 - FIME UANL September 4, 2015 [Qué es git?](https://docs.google.com/presentation/d/1nM6y1TTKOk28Pk_Cv4lmCmLRpWqLJLozD6x__rvxN5Y/edit?usp=sharing)
 - Code Crafters MTY April 12, 2019 - [Lightning Talks - How to make a blog with Hugo and Github pages](https://docs.google.com/presentation/d/16Np6grMtFSlnfoJ-KsN91QPb_NESclMR3AWw9Jc6MFE/edit?usp=sharing)
+- Timbal Latin Dance Congress 2019 - [Fuego Latino Men Shines 2nd place](https://www.youtube.com/watch?v=s4mwsrfFhjo)
+- Mambolee One Dance Congress 2020 - [Fuego Latino Men Shines 1st place](https://www.facebook.com/MamboleeONE/videos/179732403335733)
