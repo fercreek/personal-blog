@@ -10,8 +10,9 @@ slug = "my-impossible-list"
 
 # Current Focuses
 
-- Gain more muscle mass
+- Learn about blockchain and finances
 - Improve productivity doing more in less time
+- Invest money in a potential product/business
 
 # Fitness/Health Goals
 
@@ -47,6 +48,11 @@ slug = "my-impossible-list"
 # Professional Goals
 
 - ✅ DevOps course by Cero Uno _(November 2019)_
+- Earn
+  - ✅ 100k MXN in one year
+  - ✅ 100k MXN in one year in passive incomes
+  - ✅ 1k USD monthly doing trade
+  - 5k USD monthly doing trade
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
@@ -159,7 +165,8 @@ slug = "my-impossible-list"
 
 # Life Goals
 
-- Read 100 books
-- Have a software consulting
 - ✅ Have many active incomes
 - ✅ Work for fun, not for money
+- Read 100 books
+- Have a software consulting
+- Be an investor
