@@ -3,13 +3,10 @@ title = "My Impossible List"
 slug = "my-impossible-list"
 +++
 
-# Last 5 Completed Goals
+# Last Completed Goals
 
-- ✅ DevOps course by Cero Uno _(November 2019)_
-- ✅ Dance in a hip hop and reggaeton presentation _(February 2019)_
-- ✅ BB Back squat 185 lbs _(September 2019)_
-- ✅ BB Romanian Deadlift 225 lbs _(September 2019)_
-- ✅ Dance in a salsa choreography _(November 2019)_
+- ✅ Have many active incomes
+- ✅ Work for fun, not for money
 
 # Current Focuses
 
@@ -44,10 +41,12 @@ slug = "my-impossible-list"
   - 5 flares
   - Airtrack
 - ✅ Dance in a salsa choreography _(November 2019)_
+- ✅ Dance in a hip hop and reggaeton presentation _(February 2019)_
 - Salsa/Bachata choreography with partner
 
 # Professional Goals
 
+- ✅ DevOps course by Cero Uno _(November 2019)_
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
@@ -73,7 +72,7 @@ slug = "my-impossible-list"
 
 # Fun and/or "Insane" Goals
 
-- Bungee jump
+- ✅ Bungee jump
 - Do snorkel
 - Skydiving
 - Surf
@@ -81,7 +80,6 @@ slug = "my-impossible-list"
 # Events to attend
 
 - ✅ Timbal Latin Dance Congress Mty 2019
-- Beach Latin Fest 2020 in Las Brisas, Huatulco
 
 # Video Game Goals
 
@@ -103,6 +101,7 @@ slug = "my-impossible-list"
   - Playa del Carmen
   - Mazatlan
   - Los Cabos
+  - Zapopan
 - France, Paris
 - United Kingdom
   - London
@@ -151,7 +150,6 @@ slug = "my-impossible-list"
 - La Habana, Cuba
 - Las brisas, Huatulco
 - Cali, Colombia
-- Zapopan, Jalisco
 
 ## Live for a while in
 
@@ -163,5 +161,5 @@ slug = "my-impossible-list"
 
 - Read 100 books
 - Have a software consulting
-- Have many active incomes
-- Work for fun, not for money
+- ✅ Have many active incomes
+- ✅ Work for fun, not for money
