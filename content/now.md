@@ -7,11 +7,11 @@ I'm in Monterrey, Nuevo León, learning about cryptocurrencies, investment, and 
 
 This is what I spend my time doing:
 
-- Learning about blockchain and investment
 - Writing on my [blog](https://fercontreras.com)
 - [Reading books](https://www.goodreads.com/fercreek)
 - Programming
 - Dancing bachata and salsa for competitions
+- Working on tutorial for "How to start to invest for dummies"
 
 These are my main priorities right now.
 
