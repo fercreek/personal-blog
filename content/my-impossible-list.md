@@ -43,7 +43,10 @@ slug = "my-impossible-list"
   - Airtrack
 - ✅ Dance in a salsa choreography _(November 2019)_
 - ✅ Dance in a hip hop and reggaeton presentation _(February 2019)_
-- Salsa/Bachata choreography with partner
+- ✅ Salsa/Bachata choreography with partner (Euroson)_(December 2021)_
+- ✅ Solo Bachata choreography (Mambolee ONE) _(February 2022)_
+- ✅ Solo Salsa choreography (Mambolee ONE) _(February 2022)_
+- First place on a competition
 
 # Professional Goals
 
@@ -52,7 +55,7 @@ slug = "my-impossible-list"
   - ✅ 100k MXN in one year
   - ✅ 100k MXN in one year in passive incomes
   - ✅ 1k USD monthly doing trade
-  - 5k USD monthly doing trade
+  - ✅ 5k USD monthly doing trade
 - Contribute to open source community
 - Get 100 blog visits, all time
 - Be the CTO of a startup
@@ -108,6 +111,9 @@ slug = "my-impossible-list"
   - Mazatlan
   - Los Cabos
   - Zapopan
+  - Tampico
+- United States
+  - Little Rock
 - France, Paris
 - United Kingdom
   - London
