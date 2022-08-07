@@ -16,10 +16,10 @@ This is what I spend my time doing:
 These are my main priorities right now.
 
 - Be a profitable trader
-- Improving my dialy habits
+- Improving my daily habits
 - Understand how to delegate and make better decisions on the work
 - Doing more in less time
 
-If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on March 7, 2022.
+If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on August 6, 2022.
 
 This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my [Impossible List](/now/). It was inspired by [Derek Sivers](https://sivers.org/now) and [Thomas Frank](https://collegeinfogeek.com/now/).

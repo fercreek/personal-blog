@@ -15,7 +15,7 @@ disqusShortname = "fercreek"
 
 [params]
     author = "Fernando Contreras"
-    info = "SOFTWARE ENGINEER, DANCER AND WRITER BY HOBBY"
+    info = "SOFTWARE ENGINEER, TRADER, DANCER AND WRITER BY HOBBY"
     description = "Fernando Contreras's personal website"
     keywords = "blog,developer,personal,engineer,ruby,rails,python,django,javascript"
     avatarurl = "images/me.png"
@@ -34,6 +34,11 @@ disqusShortname = "fercreek"
     custom_css = ["css/custom.css"]
 
 # Social links
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook"
+    weight = 1
+    url = "https://www.facebook.com/fercreek/"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"

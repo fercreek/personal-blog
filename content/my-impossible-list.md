@@ -46,7 +46,7 @@ slug = "my-impossible-list"
 - ✅ Salsa/Bachata choreography with partner (Euroson)_(December 2021)_
 - ✅ Solo Bachata choreography (Mambolee ONE) _(February 2022)_
 - ✅ Solo Salsa choreography (Mambolee ONE) _(February 2022)_
-- First place on a competition
+- First place on a competition as a soloist
 
 # Professional Goals
 
@@ -112,6 +112,8 @@ slug = "my-impossible-list"
   - Los Cabos
   - Zapopan
   - Tampico
+  - San Luis Potosi
+  - Puebla
 - United States
   - Little Rock
 - France, Paris
