@@ -60,6 +60,12 @@ slug = "my-impossible-list"
 - Get 100 blog visits, all time
 - Be the CTO of a startup
 
+# Business Goals
+
+- Have a barbershop
+- E-commerce
+- Software running online
+
 # Habit Goals
 
 - Read 20 pages a day
