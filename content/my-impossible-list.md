@@ -21,6 +21,7 @@ slug = "my-impossible-list"
 - Dips - 15
 - Bench press
   - ✅ 135 lbs _(November 2019)_
+  - ✅ 175 lbs _(November 2023)_
 - Back Squat
   - ✅ 185 lbs _(September 2019)_
   - ✅ 225 lbs _(November 2019)_
@@ -46,7 +47,8 @@ slug = "my-impossible-list"
 - ✅ Salsa/Bachata choreography with partner (Euroson)_(December 2021)_
 - ✅ Solo Bachata choreography (Mambolee ONE) _(February 2022)_
 - ✅ Solo Salsa choreography (Mambolee ONE) _(February 2022)_
-- First place on a competition as a soloist
+- ✅ First place on a competition as a soloist _(February 2023)_
+- First place on a competition as an amateur soloist
 
 # Professional Goals
 

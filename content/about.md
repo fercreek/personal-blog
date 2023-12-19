@@ -54,3 +54,10 @@ My hobbies are:
   - [Bachata Solista Alumno](https://fb.watch/eKs4qvOs0P/)
   - [Bachata Grupos Alumnos](https://fb.watch/eKLFtTUPiy/)
   - [Salsa Duos Shines](https://fb.watch/eKLI77CUrQ/)
+- Mambolee One Dance Congress 2023
+  - [Bachata Solista Alumno 1st place](https://fb.watch/p0GhSp1EXg/)
+- Imperio Latino 2023
+  - [Bachata Solista Alumno 2nd place](https://fb.watch/p0Gnlmw2pp/)
+- Euroson Latino Dance Congress 2023
+  - [Bachata Solista Alumno 2nd place](https://fb.watch/p0GzPkXBZU/)
+  - [Salsa Solista Alumno 3rd place](https://fb.watch/p0GtQBRcIm/)
