@@ -3,28 +3,26 @@ title = "About me"
 slug = "about"
 +++
 
-# Me in 10 seconds
+# Snapshot of Me
 
-Software engineer, dancer, trader and writer by hobby
+I'm a software engineer, dancer, trader, and hobbyist writer.
 
-I used to dance break dance, now I'm dancing bachata and salsa as competitor.
+Formerly a break dancer, I now compete in bachata and salsa. I'm a Mexican, residing in Monterrey, Nuevo León, México.
 
-Mexican living in Monterrey, Nuevo León, México.
+# A Closer Look
 
-# Me in 1 minute
+I have experience as a consultant and web programmer, adept at planning and managing projects from inception to completion. 
 
-Experienced working as consultant and programmer of websites, planning and managing projects from scratch. 
+My professional focus is backend development with Ruby on Rails. In my leisure time, I compete in bachata and salsa dancing. I also engage in crypto trading and am continually learning about investments.
 
-Working on backend development with Ruby on Rails. On my spare time I dance bachata and salsa for competitions. I do crypto trade too and learning about investments.
+I'm an active participant in the local tech scene. In the past, I've organized a hackathon event at UANL - FIME for students.
 
-I constantly around the local tech scene, in the past, I organized a hackathon event in the UANL - FIME for students.
+My hobbies include:
 
-My hobbies are:
-
-- Dance bacahta and salsa
-- Workout
-- Write about life and technology
-- Cryptotrading
+- Dancing bachata and salsa
+- Working out
+- Writing about life and technology
+- Crypto trading
 
 # Exhibitions and presentations
 
@@ -35,10 +33,10 @@ My hobbies are:
 
 ## Dance
 
-- Timbal Latin Dance Congress 2019 - [Fuego Latino Men Shines 2nd place](https://www.facebook.com/TIMBALDANCECONGRESS/videos/576061669623842/UzpfSTczNjExMDI1NzoxMDE2Mjg1OTA3NDY3MDI1OA/?q=timbal%20congress%20men%20shine&epa=SEARCH_BOX)
-- Mambolee One Dance Congress 2020 - [Fuego Latino Men Shines 1st place](https://www.facebook.com/MamboleeONE/videos/179732403335733)
+- Timbal Latin Dance Congress 2019 - [🥈2nd place - Fuego Latino Men Shines](https://www.facebook.com/TIMBALDANCECONGRESS/videos/576061669623842/UzpfSTczNjExMDI1NzoxMDE2Mjg1OTA3NDY3MDI1OA/?q=timbal%20congress%20men%20shine&epa=SEARCH_BOX)
+- Mambolee One Dance Congress 2020 - [🥇1st place - Fuego Latino Men Shines](https://www.facebook.com/MamboleeONE/videos/179732403335733)
 - Mambolee One Dance Congress 2022 
-  - [Fuego Latino Bachata Men shines 2nd place](https://fb.watch/eKrEuaRkHy/)
+  - [🥈2nd place - Fuego Latino Bachata Men shines](https://fb.watch/eKrEuaRkHy/)
   - [Pa que me perdones - Bachata Solista Alumno](https://fb.watch/bBoIn6JN3X/) 
   - [Via Perico - Salsa Solista Alumno](https://fb.watch/bBoI_zIexG/)
   - [Catalogo de amor - Bachata Pareja Alumno](https://fb.watch/bBoL8l1idM/)
@@ -47,7 +45,7 @@ My hobbies are:
   - [Bachata Grupos](https://fb.watch/eKN1MF6Igg/)
   - [Bachata Men Shines](https://www.facebook.com/793921981/videos/441330537751269/)
 - Olimpo 2022
-  - [Bachata Solista Alumno 1st place](https://fb.watch/eKM4U2y98N/)
+  - [🥇1st place - Bachata Solista Alumno](https://fb.watch/eKM4U2y98N/)
   - [Bachata Duo](https://fb.watch/eKM63pUadb/)
   - [Salsa Solista Alumno](#)
 - Hobby SalsaFest 2022
@@ -55,9 +53,17 @@ My hobbies are:
   - [Bachata Grupos Alumnos](https://fb.watch/eKLFtTUPiy/)
   - [Salsa Duos Shines](https://fb.watch/eKLI77CUrQ/)
 - Mambolee One Dance Congress 2023
-  - [Bachata Solista Alumno 1st place](https://fb.watch/p0GhSp1EXg/)
+  - [🥇1st place - Bachata Solista Alumno](https://fb.watch/p0GhSp1EXg/)
 - Imperio Latino 2023
-  - [Bachata Solista Alumno 2nd place](https://fb.watch/p0Gnlmw2pp/)
+  - [🥈2nd place - Bachata Solista Alumno](https://fb.watch/p0Gnlmw2pp/)
 - Euroson Latino Dance Congress 2023
-  - [Bachata Solista Alumno 2nd place](https://fb.watch/p0GzPkXBZU/)
-  - [Salsa Solista Alumno 3rd place](https://fb.watch/p0GtQBRcIm/)
+  - [🥈2nd place - Bachata Solista Alumno](https://fb.watch/p0GzPkXBZU/)
+  - [🥉3rd place - Salsa Solista Alumno](https://fb.watch/p0GtQBRcIm/)
+- Mambolee One Dance Congress 2024
+  - [🥇1st place - Bachata Solista Alumno](https://www.facebook.com/100041993030366/videos/909271574226046/)
+  - [🥈2nd place - Bachata Pareja Pro-al]()
+  - [🥈2nd place - Bachata Pareja Alumno]()
+  - [🥈2nd place - Bachata Mixto Open]()
+  - [🥉3rd place - Bachata Duo Open]()
+  - [🥉3rd place - Salsa Duo Open]()
+  - [Salsa Solista Alumno]()

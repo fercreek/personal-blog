@@ -3,24 +3,21 @@ title: "What I Am Doing Now"
 slug: "now"
 ---
 
-I'm in Monterrey, Nuevo León, learning about cryptocurrencies, investment, and data analytics.
+Currently residing in Monterrey, Nuevo León, I am immersing myself in the world of cryptocurrencies, investment, and data analytics.
 
-This is what I spend my time doing:
+Here's a snapshot of my current activities:
 
-- Writing on my [blog](https://fercontreras.com)
-- [Reading books](https://www.goodreads.com/fercreek)
-- Programming
-- Dancing bachata and salsa for competitions
-- Working on tutorial for "How to start to invest for dummies"
+- Developing my own products
+- Training in bachata and salsa for dance competitions
 
-These are my main priorities right now.
+These are my primary focuses at the moment:
 
-- Be a better dancer
-- Improving my daily habits
-- Be a profitable trader
-- Understand how to delegate and make better decisions on the work
-- Doing more in less time
+- Enhancing my dance skills
+- Refining my daily habits
+- Becoming a profitable trader
+- Learning to delegate effectively and make informed decisions at work
+- Increasing productivity to achieve more in less time
 
-If my activities or priorities happen to change, I’ll update this page to reflect those changes. The last update was on December 18, 2023.
+This page will be updated to reflect any changes in my activities or priorities. The last update was on April 5, 2024.
 
-This page is a public declaration and a reminder to myself, and it balances out the goal-driven nature of my [Impossible List](/now/). It was inspired by [Derek Sivers](https://sivers.org/now) and [Thomas Frank](https://collegeinfogeek.com/now/).
+This page serves as a public declaration and a personal reminder, providing a balance to the goal-oriented nature of my [Impossible List](/now/). This concept was inspired by [Derek Sivers](https://sivers.org/now) and [Thomas Frank](https://collegeinfogeek.com/now/).
