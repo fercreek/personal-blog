@@ -18,6 +18,6 @@ These are my primary focuses at the moment:
 - Learning to delegate effectively and make informed decisions at work
 - Increasing productivity to achieve more in less time
 
-This page will be updated to reflect any changes in my activities or priorities. The last update was on April 5, 2024.
+This page will be updated to reflect any changes in my activities or priorities. The last update was on September 12, 2024.
 
 This page serves as a public declaration and a personal reminder, providing a balance to the goal-oriented nature of my [Impossible List](/now/). This concept was inspired by [Derek Sivers](https://sivers.org/now) and [Thomas Frank](https://collegeinfogeek.com/now/).

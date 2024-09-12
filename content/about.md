@@ -67,3 +67,6 @@ My hobbies include:
   - [🥉3rd place - Bachata Duo Open]()
   - [🥉3rd place - Salsa Duo Open]()
   - [Salsa Solista Alumno]()
+- Beach Latin Fest 2024
+  - [🥇1st place - Bachata Solista Am-Al](https://www.facebook.com/BeachLatinFriends/videos/1021641623088761)
+  - [🥇1st place - Salsa Solista Alumno](https://www.facebook.com/BeachLatinFriends/videos/1029371465647551)
