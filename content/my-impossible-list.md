@@ -124,6 +124,7 @@ slug = "my-impossible-list"
   - San Luis Potosi
   - Puebla
   - Huatulco
+  - Campeche
 - United States
   - Little Rock
 - France, Paris
