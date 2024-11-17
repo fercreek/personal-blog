@@ -10,14 +10,14 @@ slug = "my-impossible-list"
 
 # Current Focuses
 
-- Learn about blockchain and finances
+- ✅ Learn about blockchain and finances
 - Improve productivity doing more in less time
-- Invest money in a potential product/business
+- ✅ Invest money in a potential product/business
 
 # Fitness/Health Goals
 
-- Pull ups - 10
-- Chin ups - 12
+- Pull Ups - 10
+- Chin Ups - 12
 - Dips - 15
 - Bench press
   - ✅ 135 lbs _(November 2019)_
@@ -60,13 +60,14 @@ slug = "my-impossible-list"
   - ✅ 5k USD monthly doing trade
 - Contribute to open source community
 - Get 100 blog visits, all time
-- Be the CTO of a startup
+- ✅ Be the CTO of a startup (2021)
 
 # Business Goals
 
 - Have a barbershop
 - E-commerce
 - Software running online
+  - ✅ Vayla (May)
 
 # Habit Goals
 
@@ -90,7 +91,7 @@ slug = "my-impossible-list"
 # Fun and/or "Insane" Goals
 
 - ✅ Bungee jump
-- Do snorkel
+- ✅ Do snorkel (August)
 - Skydiving
 - Surf
 
@@ -122,6 +123,7 @@ slug = "my-impossible-list"
   - Tampico
   - San Luis Potosi
   - Puebla
+  - Huatulco
 - United States
   - Little Rock
 - France, Paris
@@ -170,7 +172,6 @@ slug = "my-impossible-list"
 - Zacatecas, Zacatecas
 - León, Guanajuato
 - La Habana, Cuba
-- Las brisas, Huatulco
 - Cali, Colombia
 
 ## Live for a while in
