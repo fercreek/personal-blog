@@ -47,7 +47,7 @@ My hobbies include:
 - Olimpo 2022
   - [🥇1st place - Bachata Solista Alumno](https://fb.watch/eKM4U2y98N/)
   - [Bachata Duo](https://fb.watch/eKM63pUadb/)
-  - [Salsa Solista Alumno](#)
+  - Salsa Solista Alumno
 - Hobby SalsaFest 2022
   - [Bachata Solista Alumno](https://fb.watch/eKs4qvOs0P/)
   - [Bachata Grupos Alumnos](https://fb.watch/eKLFtTUPiy/)
@@ -61,12 +61,21 @@ My hobbies include:
   - [🥉3rd place - Salsa Solista Alumno](https://fb.watch/p0GtQBRcIm/)
 - Mambolee One Dance Congress 2024
   - [🥇1st place - Bachata Solista Alumno](https://www.facebook.com/100041993030366/videos/909271574226046/)
-  - [🥈2nd place - Bachata Pareja Pro-al]()
-  - [🥈2nd place - Bachata Pareja Alumno]()
-  - [🥈2nd place - Bachata Mixto Open]()
-  - [🥉3rd place - Bachata Duo Open]()
-  - [🥉3rd place - Salsa Duo Open]()
-  - [Salsa Solista Alumno]()
+  - 🥈2nd place - Bachata Pareja Pro-al
+  - 🥈2nd place - Bachata Pareja Alumno
+  - 🥈2nd place - Bachata Mixto Open
+  - 🥉3rd place - Bachata Duo Open
+  - 🥉3rd place - Salsa Duo Open
+  - Salsa Solista Alumno
 - Beach Latin Fest 2024
   - [🥇1st place - Bachata Solista Am-Al](https://www.facebook.com/BeachLatinFriends/videos/1021641623088761)
   - [🥇1st place - Salsa Solista Alumno](https://www.facebook.com/BeachLatinFriends/videos/1029371465647551)
+- Brisa Latin Cup 2024
+  - 🥇1st place - Bachata Solista Am
+  - 🥇1st place - Bachata Team Shine Mixto
+  - 🥇1st place - Bachata Duo Open
+  - 🥈2nd place - Bachata Parejas Open
+  - 🥈2nd place - Bachata Solista Open
+  - 🥈2nd place - Salsa Solista Alumno
+  - 🥉3rd place - Salsa Duo Open
+  - 5th place - Salsa Solista Open
