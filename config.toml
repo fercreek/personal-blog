@@ -78,6 +78,10 @@ disqusShortname = "fercreek"
     name = "What I'm Doing Now"
     weight = 4
     url = "/now/"
+[[menu.main]]
+    name = "Projects"
+    weight = 5
+    url = "/projects/"
 
 [build]
 publish = "public"
