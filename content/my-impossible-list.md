@@ -68,6 +68,7 @@ slug = "my-impossible-list"
 - E-commerce
 - Software running online
   - ✅ Vayla (May)
+  - ✅ Studio Link
 
 # Habit Goals
 

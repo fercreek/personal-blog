@@ -11,6 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+publishDir = "fercreek.github.io"
 disqusShortname = "fercreek"
 
 [params]
@@ -58,13 +59,13 @@ disqusShortname = "fercreek"
     name = "Medium"
     icon = "fab fa-medium"
     weight = 5
-    url = "https://fercontreras.com"
+    url = "https://blog.fercontreras.com"
 
 # Menu links
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "https://fercontreras.com"
+    url  = "https://blog.fercontreras.com"
 [[menu.main]]
     name = "About"
     weight = 2

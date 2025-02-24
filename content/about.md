@@ -79,3 +79,10 @@ My hobbies include:
   - 🥈2nd place - Salsa Solista Alumno
   - 🥉3rd place - Salsa Duo Open
   - 5th place - Salsa Solista Open
+- Mambolee One Dance Congress 2025
+  - 🥇1st place - Bachata Parejas Am-al
+  - 🥈2nd place - Bachata Men Shines Open
+  - 🥈2nd place - Salsa Team Shines Mixto Open (Regios Team)
+  - 4th place - Bachata Grupos Open
+  - 5th place - Bachata Solista Amateur
+  - 7th place - Salsa Solista Amateur
