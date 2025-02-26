@@ -7,8 +7,10 @@ Currently residing in Monterrey, Nuevo León, I am immersing myself in the world
 
 Here's a snapshot of my current activities:
 
-- Developing my own products
-- Training in bachata and salsa for dance competitions
+- Working on [Buk](https://www.buk.cl/) as a senior backend developer
+- Developing [Studio Link](https://studiolink.online/) and [Vayla Dance](https://vayla.dance/) as side projects
+- Engaging in crypto trading and investment
+- Dancing bachata and salsa regularly
 
 These are my primary focuses at the moment:
 
